@@ -1,0 +1,4 @@
+name: AsteroidTrollExtension
+version: '${version}'
+main: me.serbob.asteroidtrollextension.AsteroidTrollExtension
+api-version: '1.16'
